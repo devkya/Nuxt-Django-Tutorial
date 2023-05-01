@@ -22,5 +22,10 @@ export default defineNuxtConfig({
                 vuetify()
             ))
         }
-    ]
+    ],
+    buildDir: 'dist',
+    target: 'static',
+  generate: {
+    fallback: true,
+  }
 })
