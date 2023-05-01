@@ -25,7 +25,5 @@ export default defineNuxtConfig({
     ],
   
     target: 'static',
-  generate: {
-    fallback: true,
-  }
+  
 })
