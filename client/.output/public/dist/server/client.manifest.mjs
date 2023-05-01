@@ -1,1 +1,0 @@
-export { default } from "file:///Users/devkya/Desktop/Xpertinc/Git/Nuxt-Django-Tutorial/client/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
